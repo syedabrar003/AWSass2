@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Listings</title>
+  </head>
+  <body>
+    <div id="doc3" class="yui-t1">
+      <div id="hd">
+        <h1 style="text-align: justify; width: 1600px;">&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+          &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+          <b><i><em>Rently</em></i></b></h1>
+      </div>
+      <div id="bd">
+        <div class="yui-b" style="width: 805px;">
+          <dl>
+            <dd>
+              <h1 style="background-color: white; width: 1617px; margin-left: -9px;">Dashboard&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="file:///Users/syabrar/Desktop/Dalhousie/Courses/Summer%2720/CSCI%205709%20AWS/Assignments/Assignment%202/BlueG/Profile.html"
+                  title="Profile"
+                  target="_top">Profile</a>
+                &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; <a href="file:///Users/syabrar/Desktop/Dalhousie/Courses/Summer%2720/CSCI%205709%20AWS/Assignments/Assignment%202/BlueG/Search.html"
+                  target="_top">Search</a>&nbsp;
+                &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="file:///Users/syabrar/Desktop/Dalhousie/Courses/Summer%2720/CSCI%205709%20AWS/Assignments/Assignment%202/BlueG/Listings.html"
+                  title="Listings"
+                  target="_top">Listings</a>&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+                &nbsp; &nbsp; <a href="file:///Users/syabrar/Desktop/Dalhousie/Courses/Summer%2720/CSCI%205709%20AWS/Assignments/Assignment%202/BlueG/Help.html"
+                  title="Help"
+                  target="_top">Help</a>&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+                <a href="file:///Users/syabrar/Desktop/Dalhousie/Courses/Summer%2720/CSCI%205709%20AWS/Assignments/Assignment%202/BlueG/Forum.html"
+                  target="_blank">Forum</a>
+                &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              </h1>
+            </dd>
+          </dl>
+          <dl>
+            <dt> <br>
+            </dt>
+          </dl>
+        </div>
+      </div>
+      <div id="ft">
+        <p style="height: 77px; width: 800px;"><br>
+        </p>
+        <p style="height: 77px; width: 800px;"><br>
+        </p>
+        <p style="height: 77px; width: 800px;"><br>
+        </p>
+      </div>
+    </div>
+    <p><br>
+    </p>
+  </body>
+</html>
