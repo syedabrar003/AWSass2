@@ -2,9 +2,9 @@
 
 ReactJS application which performs the following tasks:
 
-Task 1 - Implement asynchronous autosuggestion for the search bar using movie api.
+Task 1 - To run the HTML files locally, the Landing page is the Rently.html .
 
-Task 2 - Show selected movie details in a different page/component.
+Task 2 - Deployed a Heroku App (link in the bottom of the README).
 
 * Date Created: 14 June 2020
 * Last Modification Date: 14 June 2020
@@ -24,7 +24,6 @@ Task 2 - Show selected movie details in a different page/component.
 
 * [HTML 5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - HTML 5 documentation
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - CSS Documentation
-* [AXIOS](https://https://www.npmjs.com/package/axios/) - AXIOS API for HTTP requests
 
 ## Sources Used
 * [Heroku deployment](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08) -  How to depoy React application to Heroku
