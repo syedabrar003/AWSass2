@@ -1,4 +1,4 @@
-# CSCI5709-GROUP13-TUT4
+# CSCI5709-Assignment 2
 
 ReactJS application which performs the following tasks:
 
@@ -6,8 +6,8 @@ Task 1 - Implement asynchronous autosuggestion for the search bar using movie ap
 
 Task 2 - Show selected movie details in a different page/component.
 
-* Date Created: 1 June 2020
-* Last Modification Date: 1 June 2020
+* Date Created: 14 June 2020
+* Last Modification Date: 14 June 2020
 
 ## Author
 
@@ -17,7 +17,7 @@ Task 2 - Show selected movie details in a different page/component.
 ## Getting Started
 
 * Repository link: [click here](https://github.com/syedabrar003/CSCI-5709-A2)
-* GitLab Link : [click here](
+* GitLab Link : [click here](https://git.cs.dal.ca/abrar/CSCI-5709-A2)
 * Heroku deployment link: [click here](https://git.heroku.com/my-static-site-assignment2.git)
 
 ## Built With
